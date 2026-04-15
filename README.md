@@ -1,6 +1,7 @@
 #  Subdomain Monitor with Telegram Alerts
 
-Automated subdomain monitoring script for bug bounty hunters.
+Automated subdomain monitoring tool designed for bug bounty hunters and penetration testers.
+Continuously discovers new subdomains and alerts you instantly via Telegram.
 
 ##  Features
 
