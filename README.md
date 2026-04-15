@@ -23,6 +23,7 @@ Continuously discovers new subdomains and alerts you instantly via Telegram.
 ```bash
 git clone https://github.com/YOUR_USERNAME/subdomain-monitor.git
 cd subdomain-monitor
+chmod +x monitor.py
 ```
 
 Install tools:
