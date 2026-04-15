@@ -60,6 +60,14 @@ output/
    └── new-subs/
          ├── new-subs-2026-04-15_10-00-00.txt
 ```
+# Example Telegram Notification
+
+```
+🚨 New subdomains detected
+📁 Program: output
+🧾 Count: 12
+⏰ Time: 2026-04-15 10:00:00
+```
 
 ##  Use Case
 
