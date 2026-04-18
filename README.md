@@ -21,7 +21,7 @@ Continuously discovers new subdomains and alerts you instantly via Telegram.
 ##  Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/subdomain-monitor.git
+git clone https://github.com/killua889/subdomain-monitor.git
 cd subdomain-monitor
 chmod +x monitor.py
 ```
